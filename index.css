@@ -1,0 +1,75 @@
+.navbar{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.outer-design{
+    width: 100%;
+    height: relative;
+}
+
+.container-fluid{
+    width: 100%;
+}
+.welcome{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 50px;
+}
+.navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    width:100%;
+    z-index:99;
+    background: white;
+}
+body{
+    background: rgba(7, 58, 117, 0.801);
+    color: white;
+}
+.svg{
+    background-image: url();
+}
+.card-list{
+    display: flex;
+    padding: 3rem;
+}
+.card{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 16px;
+    box-shadow: -1rem 0 3rem rgba(7, 58, 117, 0.801);
+    color: rgb(70, 78, 87);
+}
+.inner-design{
+    width: 100%;
+    float: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.service{
+    font-size: 50px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.voyage{
+    background: white;
+    color: rgba(7, 58, 117, 0.801);
+}
+.voya{
+    font-size: 50px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: rgba(7, 58, 117, 0.801);
+}
+.voy{
+    align-items: center;
+}
+.call{
+    font-size: 50px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.bi{
+    align-items: center;
+    
+}
